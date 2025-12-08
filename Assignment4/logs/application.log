@@ -1,0 +1,28 @@
+[ 2025-12-05 11:33:25,522 ] - comtypes.client._code_cache INFO - Could not import comtypes.gen, trying to create it.
+[ 2025-12-05 11:33:25,524 ] - comtypes.client._code_cache INFO - Created comtypes.gen directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 11:33:25,525 ] - comtypes.client._code_cache INFO - Writing __init__.py file: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen\__init__.py'
+[ 2025-12-05 11:33:25,528 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 11:33:25,560 ] - comtypes.client._generate INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+[ 2025-12-05 11:33:25,565 ] - comtypes.client._generate INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+[ 2025-12-05 11:33:25,671 ] - comtypes.client._generate INFO - # Generating comtypes.gen.SpeechLib
+[ 2025-12-05 11:33:25,682 ] - comtypes.client._generate INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+[ 2025-12-05 11:33:25,683 ] - comtypes.client._generate INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+[ 2025-12-05 11:33:25,691 ] - comtypes.client._generate INFO - # Generating comtypes.gen.stdole
+[ 2025-12-05 11:34:26,497 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 11:34:26,497 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:03:41,630 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:03:41,630 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:03:53,321 ] - root INFO - 
+[ 2025-12-05 12:09:24,275 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:09:24,275 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:09:50,014 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:09:50,014 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:11:33,894 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:11:33,894 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:11:52,467 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:11:52,467 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:13:21,024 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:13:21,025 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:19:24,659 ] - comtypes.client._code_cache INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\anaconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-12-05 12:19:24,660 ] - comtypes.client._code_cache INFO - Using writeable comtypes cache directory: 'C:\Users\lenovo\anaconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-12-05 12:19:37,277 ] - root INFO - 
